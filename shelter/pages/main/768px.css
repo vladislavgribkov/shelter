@@ -1,0 +1,152 @@
+.container{
+    max-width: 768px;
+    padding: 0 30px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header{
+    margin: 30px 0 0 0;
+}
+.header__burger{
+    display: none;
+}
+.header__items{
+    width: 100%;
+}
+.not-only__content img{
+    width: 569px;
+    height: 593px;
+    margin: 100px 0 0 69.5px;
+}
+.not-only{
+    padding: 0;
+}
+.not-only__content{
+    flex-direction: column;
+    width: 569px;
+    margin: 0 auto;
+}
+.not-only__content_title-button button{
+    margin: 0 2px 0 0;
+}
+.not-only__content_title{
+    padding: 151px 0 0 0;
+    margin: 0 54px 0 55px;
+}
+.not-only__content_title p{
+    margin: 0 0 42px 0;
+}
+.not-only__content_title-button{
+    margin: 0 auto;
+}
+
+.about__content{
+    flex-direction: column;
+    padding: 0;
+}
+.about__content img{
+    order: 2;
+}
+.about__content_title {
+    width: 61.5%;
+    margin: 0 0 80px 0;
+}
+
+.our-friend__content_items {
+    width: 81.9%;
+    overflow: hidden;
+}
+.our-friend__content_items-item {
+    margin: 0 40px 0 0;
+}
+
+.help__content_title {
+    width: 44%;
+    margin: 1px 0 0 28.1%;
+}
+.help__content_items {
+    column-gap: 60px;
+}
+.help__content_items-item {
+    width: 170px;
+    height: 113px;
+}
+.help__content_items-item:nth-child(2) img{
+    margin: 0 20px 30px 0;
+}
+
+.in-addition__content {
+    flex-direction: column;
+}
+.in-addition__content_img{
+    order: 2;
+    margin: 0 0 0 0px;
+}
+.in-addition__content_title{
+    margin: 0px 0 59px 22px;
+}
+.in-addition__content_title-title {
+    width: 75%;
+}
+.in-addition__content_title-text{
+    width: 90%;
+}
+.in-addition {
+    padding: 80px 0 100px 0;
+}
+footer{
+    padding: 11px 0 0 0;
+    overflow: visible;
+    height: 100%;
+}
+.footer__content{
+    justify-content: center;
+}
+.footer__content_left-panel {
+    flex-basis: 44%;
+    margin: 20px 28px 0 27px;
+}
+.footer__content_right-panel {
+    flex-basis: 45%;
+}
+
+.footer__content_img{
+    margin: 66px 0 0 0;
+}
+.footer__content_right-panel-nav-list_item-location-2:after {
+    right: 109%;
+}
+
+.popup__content{
+    width: 682px;
+    height: 402px;
+}
+
+.popup__content_title{
+    width: 630px;
+    height: 350px;
+}
+.popup__content_title-img{
+    width: 350px;
+    height: 350px;
+    margin: 0 11px 0 0;
+}
+.popup__content_title-content{
+    width: 260px;
+    height: 303px;
+    margin: 10px 0 0 0;
+}
+.popup__content_title-content_text{
+    font-size: 13px;
+}
+.popup__content_title-content_subtitle{
+    color: #000000;
+    margin: 0 0 0 0;
+}
+.popup__content_title-content_text{
+    color: #000000;
+}
+.popup__content_title-content_item{
+    margin: 0 0 6px 0;
+}
